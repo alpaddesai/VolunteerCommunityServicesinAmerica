@@ -6,5 +6,5 @@ Project provides an overivew of volunteer community services in America
 
 ![image](Ethics.jpg)
 
-![image](USCopyrightCertificate.jpg)
+![image](USCopyrightCertificate.png)
 
