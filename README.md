@@ -8,3 +8,4 @@ Project provides an overivew of volunteer community services in America
 
 ![image](USCopyrightCertificate.png)
 
+Additional details reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
