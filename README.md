@@ -4,7 +4,7 @@ Project provides an overivew of volunteer community services in America
 
 ![image](VolunteerCommunityServices.jpg)
 
-### Professional Development Co-chair for Society of Women Engineers (SWE) - Boston '04-'05.
+### Professional Development Co-chair for Society of Women Engineers (SWE)-Boston '04-'05.
 
 ### OASIS leader & member of the planning committee for the International Carnevale '05 NEU
 
