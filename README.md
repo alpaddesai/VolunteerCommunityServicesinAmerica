@@ -2,7 +2,7 @@
 
 Project provides an overivew of volunteer community services in America
 
-![image](VolunteerCommunityServices.jpg)
+![image](VolunteerServicesCommunityService.jpg)
 
 ### Professional Development Co-chair for Society of Women Engineers (SWE)-Boston '04-'05.
 
